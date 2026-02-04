@@ -70,6 +70,90 @@
   background: #333;
 }
 
+.control-row {
+  display: flex;
+  gap: 8px;
+  width: 100%;
+}
+
+.control-row button {
+  max-width: 25px;
+  max-height: 25px;
+  font-size: 14px;
+  padding: 2px;
+}
+
+.custom-video-controller span {
+  min-width: 35px;
+}
+
+
+/* Playspeed widget */
+.insta-vid-ps {
+  position: relative;
+}
+
+.insta-vid-ps button {
+  background: #222;
+  color: #fff;
+  border: 1px solid #444;
+  border-radius: 4px;
+  padding: 4px 6px;
+  cursor: pointer;
+  min-width: 42px;
+}
+
+.insta-vid-ps-dropdown {
+  position: absolute;
+  bottom: 130%;
+  left: 0;
+  background: rgba(0, 0, 0, 0.85);
+  padding: 8px;
+  border-radius: 6px;
+  width: 120px;
+  display: none;
+}
+
+.insta-vid-ps-dropdown input[type="range"] {
+  width: 100%;
+}
+
+.insta-vid-ps-dropdown .speed-label {
+  text-align: center;
+  font-size: 11px;
+  margin-top: 4px;
+}
+.insta-vid-ps-dropdown input[type="range"] {
+  height: 1px;
+}
+
+.insta-vid-ps-dropdown {
+  padding: 10px 10px;
+  display: flex;
+  bottom: 0;
+  top: 130%;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.insta-vid-ps-dropdown .speed-label {
+  margin-top: 0;
+  min-width: 35px;
+  text-align: center;
+}
+.insta-vid-ps button {
+  min-width: 45px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.insta-vid-ps-dropdown.hide {
+  display: none;
+}
+
 div:has(>video + .custom-video-controller) {
   position: relative;
 }
+
