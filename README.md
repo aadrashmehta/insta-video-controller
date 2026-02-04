@@ -17,10 +17,23 @@ A Chrome extension for controlling Instagram videos with enhanced playback featu
 
 ## Project Structure
 
+```
+insta-video-controller/
+├── icons/
+│   ├── icon.png
+│   ├── icon16.png
+│   ├── icon48.png
+│   └── icon128.png
+├── .gitignore
+├── content.js
+├── manifest.json
+└── README.md
+```
+
 - `manifest.json` - Extension configuration and permissions
 - `content.js` - Main extension logic
 - `style.css` - Extension styling
-- `icons/` - Extension icons
+- `icons/` - Extension icons (16x16, 48x48, 128x128 PNG files)
 
 ## Usage
 
