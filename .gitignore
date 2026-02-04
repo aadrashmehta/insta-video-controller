@@ -4,6 +4,9 @@ package-lock.json
 yarn.lock
 
 
+# Readme
+README.md
+
 # IDE
 .vscode/
 .idea/
