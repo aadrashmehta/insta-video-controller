@@ -37,6 +37,7 @@ insta-video-controller/
 
 ## Screenshots
 
+![Screenshot](images/Recording%202026-02-05%20045623.gif)
 ![Screenshot 1](images/Screenshot%20044657.png)
 ![Screenshot 2](images/Screenshot%20044709.png)
 ![Screenshot 3](images/Screenshot%20044718.png)
