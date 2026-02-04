@@ -35,6 +35,14 @@ insta-video-controller/
 - `style.css` - Extension styling
 - `icons/` - Extension icons (16x16, 48x48, 128x128 PNG files)
 
+## Screenshots
+
+![Screenshot 1](images/Screenshot%20044657.png)
+![Screenshot 2](images/Screenshot%20044709.png)
+![Screenshot 3](images/Screenshot%20044718.png)
+![Screenshot 4](images/Screenshot%20044910.png)
+![Screenshot 5](images/Screenshot%20044922.png)
+
 ## Usage
 
 The extension will automatically activate on Instagram. Use the controls to manage video playback.
