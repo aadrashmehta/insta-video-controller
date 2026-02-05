@@ -1,5 +1,6 @@
 # Insta Video Controller
 ![Insta Video Controller](icons/icon128.png)
+
 A Chrome extension for controlling Instagram videos with enhanced playback features.
 
 ## Features
