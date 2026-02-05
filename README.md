@@ -14,9 +14,7 @@ A Chrome extension for controlling Instagram videos with enhanced playback featu
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/FmBEFfWsTbQ/0.jpg)](https://youtu.be/FmBEFfWsTbQ)
-
-Watch the demo on YouTube: https://youtu.be/FmBEFfWsTbQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FmBEFfWsTbQ?si=8-VTr0GpKYZQjZ-J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Installation
 
