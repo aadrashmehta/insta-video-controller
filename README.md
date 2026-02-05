@@ -8,6 +8,10 @@ A Chrome extension for controlling Instagram videos with enhanced playback featu
 - Video playback controls
 - Custom styling for better user experience
 
+## Download Zip
+
+[Download the latest release as ZIP](insta-video-controller.zip)
+
 ## Installation
 
 1. Clone this repository or download the files
